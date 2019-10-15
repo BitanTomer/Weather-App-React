@@ -3,7 +3,10 @@ This app show the weather conditions of a particular city when you supply the ci
 
 The app was build by using ReactJS.
 
-The api for this project is: Open Weather Map API - https://openweathermap.org/
+The api for this project is:
+Open Weather Map API - https://openweathermap.org/
+![openweather-negative-logo-RGB](https://user-images.githubusercontent.com/49564370/66855992-ec464980-ef8c-11e9-8d0e-5d143b4249fc.png)
+
 With using this API you can get weather data in any location on the earth. The current weather data are updated online based on data from more than 40,000 weather stations.
 
 
