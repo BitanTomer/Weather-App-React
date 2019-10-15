@@ -1,3 +1,13 @@
+## Weather application ReactJS 
+This app show the weather conditions of a particular city when you supply the city and country.
+
+The app was build by using ReactJS.
+
+The api for this project is: Open Weather Map API - https://openweathermap.org/
+With using this API you can get weather data in any location on the earth. The current weather data are updated online based on data from more than 40,000 weather stations.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
